@@ -33,6 +33,6 @@ spec:
       - name: back                                                                                                                                                    
         image: hans9102/wknewyr_back:1.0
         ports:                                                                                                                                                              
-        - containerPort: 3000                                                                                                                                               
+        - containerPort: 4000                                                                                                                                               
       - name: db                                                                                                                                                          
         image: mongo
